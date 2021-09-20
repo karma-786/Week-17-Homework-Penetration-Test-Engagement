@@ -144,3 +144,12 @@ C. Run the command that displays the target's computer system information:
 ---
 
 &copy; 2020 Trilogy Education Services, a 2U Inc Brand.   All Rights Reserved.
+
+## Week 17 Homework Solution: Penetration Test Engagement
+
+Refer to the following solution files for the homework worksheets: 
+
+* [Week 17 Homework Solution: Penetration Test Engagement](https://github.com/karma-786/Week-17-Homework-Penetration-Test-Engagement/blob/main/Week%2017%20Homework%20Penetration%20Test%20Engagement.md)  
+
+---
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
